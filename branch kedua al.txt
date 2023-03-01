@@ -1,5 +1,6 @@
-siklus hari:
+waktu dalam sehari:
 1. pagi
 2. siang
 3. sore
 4. malam
+5. petang
