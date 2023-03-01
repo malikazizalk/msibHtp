@@ -1,0 +1,4 @@
+jenis makanan:
+1. kuah
+2. kering
+3. kukus
