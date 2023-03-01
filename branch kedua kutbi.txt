@@ -1,0 +1,4 @@
+jumlah hari perbulan
+1. januari 31
+2. februari 28
+3. maret 31
