@@ -1,4 +1,5 @@
-bidang karir web developer:
+alur kerja web developer:
 1. frontend
 2. backend
 3. fullsatck
+4. ui/ux
