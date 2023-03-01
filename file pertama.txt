@@ -1,5 +1,5 @@
 rincian mataeri pelatihan
-1. html
+1. web desing
 2. css
 3 js
 4. github
@@ -7,3 +7,4 @@ rincian mataeri pelatihan
 6. mysql
 7. laravel
 8. rest api
+9. final projek
