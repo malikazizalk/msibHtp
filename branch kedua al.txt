@@ -1,0 +1,5 @@
+siklus hari:
+1. pagi
+2. siang
+3. sore
+4. malam
