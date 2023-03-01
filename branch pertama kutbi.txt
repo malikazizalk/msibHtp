@@ -1,4 +1,5 @@
 jenis makanan:
 1. kuah
-2. kering
+2. goreng
 3. kukus
+4. panggang
