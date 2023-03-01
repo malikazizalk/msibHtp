@@ -1,4 +1,5 @@
 jumlah hari perbulan
 1. januari 31
-2. februari 28
+2. februari (empat tahun sekali akan jadi 29)
 3. maret 31
+april 30
