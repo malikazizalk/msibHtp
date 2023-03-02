@@ -1,0 +1,10 @@
+rincian mataeri pelatihan
+1. web desing
+2. css
+3 js
+4. github
+5. php
+6. mysql
+7. laravel
+8. rest api
+9. final projek
